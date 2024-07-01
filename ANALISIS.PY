@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Ruta del archivo de Excel
-excel_file = r'C:\Users\TU_USUARIO\Desktop\TU_CARPETA\BASE DE DATOS SUPERMERCADO JPV CONVERSION\BASE DE DATOS DE SUPERMERCADO_JPV.xlsx'
+excel_file = r'C:\Users\jma\Desktop\CAES DIMPLADO DE POWER BI\BASE DE DATOS SUPERMERCADO JPV CONVERSION\BASE DE DATOS DE SUPERMERCADO_JPV.xlsx'
 
 # Cargar el archivo de Excel en un DataFrame de Pandas
 df = pd.read_excel(excel_file)
