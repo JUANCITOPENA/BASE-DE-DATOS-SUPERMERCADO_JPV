@@ -3,10 +3,6 @@
 ### 📄 Introducción
 La base de datos del Supermercado JPV contiene un registro detallado de las transacciones de ventas realizadas por el supermercado. Esta información incluye datos sobre los clientes, vendedores, productos y las ventas individuales. La base de datos se puede utilizar para realizar un análisis exhaustivo del desempeño de las ventas, el comportamiento de los clientes y la eficiencia de los vendedores.
 
-## CAPTURAS DEL ANALISIS EN PYTHON -ARCHIVO ANALISIS.PY:
----
-![](ANALISIS.png)
-
 ### 📋 Estructura de los Datos
 La base de datos está organizada en varias columnas que describen diferentes aspectos de cada transacción de venta. A continuación se detallan los campos principales:
 
